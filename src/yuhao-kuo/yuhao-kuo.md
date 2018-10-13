@@ -14,13 +14,14 @@
 ## Education
 
 * 南臺科技大學電子工程學士 `2011 - 2015`
-* 國立高雄科技大學電子工程計算機碩士; `2018 - 現在`
+* 國立高雄科技大學電子工程碩士; `2018 - 現在`
 
 ---
 
 ## Experience
 
 * 計算機程式 - 教學助理
+* MingTasnn Technology Ltd - Firmware Engineer
 
 --- 
 
